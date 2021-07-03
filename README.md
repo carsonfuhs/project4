@@ -1,24 +1,18 @@
-# README
+# Formula One Tracker
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple app to track Formula One races and results.
 
-Things you may want to cover:
+Link: https://priceless-fermat-ebaaef.netlify.app/
 
-* Ruby version
+## Technologies used:
 
-* System dependencies
+- React
+- Ruby on Rails
+- Netlify
+- Heroku
+- React Bootstrap
 
-* Configuration
 
-* Database creation
+## Future Additions:
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+I'd like to include a page with drivers and their results, or tracks with their winners. Also, it could hit an api to add more images and data to it.
